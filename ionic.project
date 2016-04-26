@@ -1,0 +1,12 @@
+{
+  "name": "ionicMaps",
+  "app_id": "009e5dc7",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
